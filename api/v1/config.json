@@ -1,0 +1,9 @@
+{
+  "commitMessage": "Last commit by flow-cicd[bot] - Yaml file deletion by FLOW... Thu, 15 Jul 2021 13:15:27 ",
+  "deployedBundles": {
+    "multiWidget": {
+      "bundleUrl": "/Users/sumit.pradhan/Documents/work/fk_repos/RAMBundleDeployer/BINARIES/multiWidget/master-1.ota",
+      "checksum": "f678e360598d8fb52a7f5ebac4f68ec6"
+    }
+  }
+}
